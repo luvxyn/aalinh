@@ -1,31 +1,19 @@
-# 🌸Bienvenid@!
+# Welcome to my profile! ♡⸝⸝ 
 
-### A mi perfil de Github!
+- My name is Nevv
+- Pronouns: She/Her
 
+## About me! ── .✦ 💢
 
+I am in the process of learning, I am currently diving into the world of Python and exploring the vast universe of software development.
 
+<img src="https://i.pinimg.com/564x/0b/9f/22/0b9f227df60e433b5f5cc40c0abbec5b.jpg">
 
+#### Some stats! ૮₍ ˃ ⤙ ˂ ₎ა
 
-### 🔖 Conocimientos :
+[![Discord Presence](https://lanyard.cnrad.dev/api/1196143355151790281?theme=light&bg=FAA0A0&hideTimestamp=true&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)
+](https://discord.com/users/1196143355151790281)
 
-<p>
-  <a href="https://skillicons.dev">
-    <p>
-    <img src="https://skillicons.dev/icons?i=vscode,photoshop"/>
-  </a>
-</p>
+> Provided by [`Lanyard`]
 
----
-
-### ❤️ Aprendiendo:
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp"/>
-  </a>
-</p>
-
-
-
-
-
+[`Lanyard`]: https://github.com/Phineas/lanyard
