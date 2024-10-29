@@ -14,6 +14,6 @@ I am in the process of learning, I am currently diving into the world of Python 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1196143355151790281?theme=light&bg=FAA0A0&hideTimestamp=true&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)
 ](https://discord.com/users/1196143355151790281)
 
-> Provided by [`Lanyard`]
 
-[`Lanyard`]: https://github.com/Phineas/lanyard
+
+
