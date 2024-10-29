@@ -1,4 +1,4 @@
-# Welcome to my profile! ♡⸝⸝ 
+# Welcome to my profile! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> ♡⸝⸝ 
 
 - My name is Nevv
 - Pronouns: She/Her
