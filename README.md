@@ -12,10 +12,9 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nevxah&hide_border=true&locale=es&ring=F8BAB9&stroke=F8BAB9&currStreakNum=F8BAB9&dates=F8BAB9&excludeDaysLabel=F8BAB9&sideLabels=F8BAB9&fire=F8BAB9&currStreakLabel=F8BAB9&sideNums=F8BAB9&border=FFFFFF" alt="GitHub Streak" width="400" />
+    <img src="https://streak-stats.demolab.com?user=nevxah&hide_border=true&locale=es&ring=F8BAB9&stroke=F8BAB9&currStreakNum=F8BAB9&dates=F8BAB9&excludeDaysLabel=F8BAB9&sideLabels=F8BAB9&fire=F8BAB9&currStreakLabel=F8BAB9&sideNums=F8BAB9&border=FFFFFF&background=EB545400" alt="GitHub Streak" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://github.com/nevxah">
