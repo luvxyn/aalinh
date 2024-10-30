@@ -29,11 +29,21 @@ I am in the process of learning, I am currently diving into the world of Python 
 - My name is Nevv 
 - Pronouns: She/Her
 
-<p align="">
-  <a href="https://discord.com/users/1196143355151790281">
-    <img src="https://lanyard.cnrad.dev/api/1196143355151790281?theme=light&bg=f8bab9&hideTimestamp=true&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else" alt="Discord Presence" width="300" />
-  </a>
-</p>
+<div style="display: flex; align-items: center;">
+  <p style="margin-right: 20px;">
+    <a href="https://discord.com/users/1196143355151790281">
+      <img src="https://lanyard.cnrad.dev/api/1196143355151790281?theme=light&bg=f8bab9&hideTimestamp=true&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else" alt="Discord Presence" width="300" />
+    </a>
+  </p>
+  <div style="display: flex;">
+    <img src="https://i.pinimg.com/564x/9c/72/a2/9c72a2de84c455260c8702536f5f9e68.jpg" alt="Image 1" width="100" style="margin-right: 10px;" />
+    <img src="https://i.pinimg.com/564x/94/0f/26/940f2671757e97aa07bd00822eac6b7a.jpg" alt="Image 2" width="100" style="margin-right: 10px;" />
+    <img src="https://i.pinimg.com/736x/fd/1b/fa/fd1bfae57f725f4b28af0db85dd96d23.jpg" alt="Image 3" width="100" style="margin-right: 10px;" />
+    <img src="https://i.pinimg.com/736x/27/2d/0b/272d0bac7af1aa22a55807ba1a0ae1a8.jpg" alt="Image 4" width="100" />
+  </div>
+</div>
+
+
 <p align="right">
     <img src="https://github.com/user-attachments/assets/18885ff8-5e2a-4086-8492-fc5b8d98b68a" width="40" />
   </a>
