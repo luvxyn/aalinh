@@ -24,7 +24,7 @@
 
  
 ૮₍ ˃ ⤙ ˂ ₎ა 🌸  ♡⸝⸝             
-I am in the process of learning, I am currently diving into the world of Python and exploring the vast universe of software development.
+I am in the process of learning, currently immersing myself and exploring the universe of software development.
 
 - My name is Nevv 
 - Pronouns: She/Her
