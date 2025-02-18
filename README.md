@@ -12,6 +12,7 @@
   
 <p align="left">
   <p>♡⸝⸝ Estoy en el proceso de aprendizaje.</p>
+<br><br>
 
   <!-- Contador de visitas -->
  <div estilo="pantalla: flexionar; justificar contenido: centro; margen: px 0;">
@@ -19,13 +20,8 @@
       <img src="https://komarev.com/ghpvc/?username=aalinh&abreviado=true&color=lightgrey&estilo=flat" alt="Visitas a mi perfil de GitHub" ancho="120" />
     </a>
   </div>
-
-  <!-- Discord -->
-
-<div alinear="left">
-    <a href="https://discordapp.com/users/1196143355151790281" objetivo="_blanc">
-        <img src="https://lanyard.cnrad.dev/api/1196143355151790281" />
+<div style="text-align: center;">
+    <a href="https://discordapp.com/users/1196143355151790281" target="_blank">
+        <img src="https://lanyard.cnrad.dev/api/1196143355151790281" style="width: 280px; height: auto;" />
     </a>
-</div> 
-
----
+</div>
